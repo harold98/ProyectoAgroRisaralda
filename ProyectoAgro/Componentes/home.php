@@ -4,7 +4,7 @@
 		<table class="table table-hover">
 			<thead>
 				<tr>
-					<th>ID</th>
+					  <th>ID</th>
 					<th>Alias</th>
 					<th>Nombres</th>
 					<th>Apellidos</th>
