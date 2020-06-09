@@ -13,6 +13,9 @@
 				<li>
 					<a href="?menu=ingreso">Ingreso</a>
 				</li>
+				<li>
+					<a href="?menu=ingreproduct">Ingresar Productos</a>
+				</li>
 			</ul>
 	</div>
 </nav>

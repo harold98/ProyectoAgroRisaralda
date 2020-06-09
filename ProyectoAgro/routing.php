@@ -4,6 +4,8 @@
 	**/
 	if ($_GET['menu']=='ingreso') {
 		require_once('Componentes/ingreso.php');
+	}if ($_GET['menu']=='ingreproduct') {
+		require_once('Componentes/ingreproduct.php');
 	}if ($_GET['menu']=='registro') {
 		require_once('Componentes/registro.php');
 	}if ($_GET['menu']=='home') {
